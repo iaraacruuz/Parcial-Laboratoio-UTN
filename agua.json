@@ -1,0 +1,92 @@
+[
+    {
+        "Nombre": "Squirtle",
+        "Mayor Puntos": 65,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Wartortle",
+        "Mayor Puntos": 80,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Blastoise",
+        "Mayor Puntos": 100,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Psyduck",
+        "Mayor Puntos": 52,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Golduck",
+        "Mayor Puntos": 82,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Poliwag",
+        "Mayor Puntos": 50,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Poliwhirl",
+        "Mayor Puntos": 65,
+        "Tipo de Poder": "Ambos"
+    },
+    {
+        "Nombre": "Seel",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Shellder",
+        "Mayor Puntos": 100,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Krabby",
+        "Mayor Puntos": 105,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Kingler",
+        "Mayor Puntos": 130,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Horsea",
+        "Mayor Puntos": 70,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Seadra",
+        "Mayor Puntos": 95,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Goldeen",
+        "Mayor Puntos": 67,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Seaking",
+        "Mayor Puntos": 92,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Staryu",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Magikarp",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Vaporeon",
+        "Mayor Puntos": 110,
+        "Tipo de Poder": "Ataque"
+    }
+]

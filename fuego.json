@@ -1,0 +1,52 @@
+[
+    {
+        "Nombre": "Charmander",
+        "Mayor Puntos": 52,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Charmeleon",
+        "Mayor Puntos": 64,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Vulpix",
+        "Mayor Puntos": 41,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Ninetales",
+        "Mayor Puntos": 76,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Growlithe",
+        "Mayor Puntos": 70,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Arcanine",
+        "Mayor Puntos": 110,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Ponyta",
+        "Mayor Puntos": 85,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Rapidash",
+        "Mayor Puntos": 100,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Magmar",
+        "Mayor Puntos": 95,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Flareon",
+        "Mayor Puntos": 130,
+        "Tipo de Poder": "Ataque"
+    }
+]

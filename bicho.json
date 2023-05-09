@@ -1,0 +1,17 @@
+[
+    {
+        "Nombre": "Caterpie",
+        "Mayor Puntos": 35,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Metapod",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Pinsir",
+        "Mayor Puntos": 125,
+        "Tipo de Poder": "Ataque"
+    }
+]

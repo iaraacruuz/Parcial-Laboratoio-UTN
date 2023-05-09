@@ -1,0 +1,52 @@
+[
+    {
+        "Nombre": "Ekans",
+        "Mayor Puntos": 60,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Arbok",
+        "Mayor Puntos": 85,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Nidoran?",
+        "Mayor Puntos": 52,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Nidorina",
+        "Mayor Puntos": 67,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Nidoran?",
+        "Mayor Puntos": 57,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Nidorino",
+        "Mayor Puntos": 72,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Grimer",
+        "Mayor Puntos": 80,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Muk",
+        "Mayor Puntos": 105,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Koffing",
+        "Mayor Puntos": 95,
+        "Tipo de Poder": "Defensa"
+    },
+    {
+        "Nombre": "Weezing",
+        "Mayor Puntos": 120,
+        "Tipo de Poder": "Defensa"
+    }
+]
