@@ -1,5 +1,15 @@
 [
     {
+        "Nombre": "Vulpix",
+        "Mayor Puntos": 41,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "sola",
+        "Mayor Puntos": 92,
+        "Tipo de Poder": "Defensa"
+    },
+    {
         "Nombre": "Charmander",
         "Mayor Puntos": 52,
         "Tipo de Poder": "Ataque"
@@ -10,8 +20,8 @@
         "Tipo de Poder": "Ataque"
     },
     {
-        "Nombre": "Vulpix",
-        "Mayor Puntos": 41,
+        "Nombre": "Growlithe",
+        "Mayor Puntos": 70,
         "Tipo de Poder": "Ataque"
     },
     {
@@ -20,18 +30,13 @@
         "Tipo de Poder": "Ataque"
     },
     {
-        "Nombre": "Growlithe",
-        "Mayor Puntos": 70,
-        "Tipo de Poder": "Ataque"
-    },
-    {
-        "Nombre": "Arcanine",
-        "Mayor Puntos": 110,
-        "Tipo de Poder": "Ataque"
-    },
-    {
         "Nombre": "Ponyta",
         "Mayor Puntos": 85,
+        "Tipo de Poder": "Ataque"
+    },
+    {
+        "Nombre": "Magmar",
+        "Mayor Puntos": 95,
         "Tipo de Poder": "Ataque"
     },
     {
@@ -40,8 +45,8 @@
         "Tipo de Poder": "Ataque"
     },
     {
-        "Nombre": "Magmar",
-        "Mayor Puntos": 95,
+        "Nombre": "Arcanine",
+        "Mayor Puntos": 110,
         "Tipo de Poder": "Ataque"
     },
     {
