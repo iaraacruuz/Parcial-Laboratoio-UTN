@@ -1,162 +1,117 @@
-{
-    "Magikarp": {
-        "Tipo del pokemon": "Magikarp",
-        "Poder maximo": 55,
-        "Tipo de poder maximo": "Defensa"
+[
+    {
+        "Nombre": "Magikarp",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
     },
-    "Horsea": {
-        "Tipo del pokemon": "Horsea",
-        "Poder maximo": 70,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "julieta",
+        "Mayor Puntos": 92,
+        "Tipo de Poder": "Defensa"
     },
-    "Omanyte": {
-        "Tipo del pokemon": "Omanyte",
-        "Poder maximo": 100,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Horsea",
+        "Mayor Puntos": 70,
+        "Tipo de Poder": "Defensa"
     },
-    "Tentacool": {
-        "Tipo del pokemon": "Tentacool",
-        "Poder maximo": 40,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "Seel",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
     },
-    "Seel": {
-        "Tipo del pokemon": "Seel",
-        "Poder maximo": 55,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Staryu",
+        "Mayor Puntos": 55,
+        "Tipo de Poder": "Defensa"
     },
-    "Staryu": {
-        "Tipo del pokemon": "Staryu",
-        "Poder maximo": 55,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Squirtle",
+        "Mayor Puntos": 65,
+        "Tipo de Poder": "Defensa"
     },
-    "Squirtle": {
-        "Tipo del pokemon": "Squirtle",
-        "Poder maximo": 65,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Poliwag",
+        "Mayor Puntos": 50,
+        "Tipo de Poder": "Ataque"
     },
-    "Poliwag": {
-        "Tipo del pokemon": "Poliwag",
-        "Poder maximo": 50,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "Psyduck",
+        "Mayor Puntos": 52,
+        "Tipo de Poder": "Ataque"
     },
-    "Psyduck": {
-        "Tipo del pokemon": "Psyduck",
-        "Poder maximo": 52,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "LUCIANA",
+        "Mayor Puntos": 73,
+        "Tipo de Poder": "Defensa"
     },
-    "Omastar": {
-        "Tipo del pokemon": "Omastar",
-        "Poder maximo": 125,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Wartortle",
+        "Mayor Puntos": 80,
+        "Tipo de Poder": "Defensa"
     },
-    "Wartortle": {
-        "Tipo del pokemon": "Wartortle",
-        "Poder maximo": 80,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Poliwhirl",
+        "Mayor Puntos": 65,
+        "Tipo de Poder": "Ambos"
     },
-    "Poliwhirl": {
-        "Tipo del pokemon": "Poliwhirl",
-        "Poder maximo": 65,
-        "Tipo de poder maximo": "Ambos"
+    {
+        "Nombre": "Seadra",
+        "Mayor Puntos": 95,
+        "Tipo de Poder": "Defensa"
     },
-    "Seadra": {
-        "Tipo del pokemon": "Seadra",
-        "Poder maximo": 95,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Shellder",
+        "Mayor Puntos": 100,
+        "Tipo de Poder": "Defensa"
     },
-    "Shellder": {
-        "Tipo del pokemon": "Shellder",
-        "Poder maximo": 100,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Goldeen",
+        "Mayor Puntos": 67,
+        "Tipo de Poder": "Ataque"
     },
-    "Slowpoke": {
-        "Tipo del pokemon": "Slowpoke",
-        "Poder maximo": 65,
-        "Tipo de poder maximo": "Ambos"
+    {
+        "Nombre": "JULIETAA",
+        "Mayor Puntos": 67,
+        "Tipo de Poder": "Ataque"
     },
-    "Goldeen": {
-        "Tipo del pokemon": "Goldeen",
-        "Poder maximo": 67,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "nana",
+        "Mayor Puntos": 98,
+        "Tipo de Poder": "Defensa"
     },
-    "Dewgong": {
-        "Tipo del pokemon": "Dewgong",
-        "Poder maximo": 80,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Golduck",
+        "Mayor Puntos": 82,
+        "Tipo de Poder": "Ataque"
     },
-    "Tentacruel": {
-        "Tipo del pokemon": "Tentacruel",
-        "Poder maximo": 70,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "Blastoise",
+        "Mayor Puntos": 100,
+        "Tipo de Poder": "Defensa"
     },
-    "Slowbro": {
-        "Tipo del pokemon": "Slowbro",
-        "Poder maximo": 110,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "romina",
+        "Mayor Puntos": 84,
+        "Tipo de Poder": "Ataque"
     },
-    "Starmie": {
-        "Tipo del pokemon": "Starmie",
-        "Poder maximo": 85,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Seaking",
+        "Mayor Puntos": 92,
+        "Tipo de Poder": "Ataque"
     },
-    "Kabuto": {
-        "Tipo del pokemon": "Kabuto",
-        "Poder maximo": 90,
-        "Tipo de poder maximo": "Defensa"
+    {
+        "Nombre": "Krabby",
+        "Mayor Puntos": 105,
+        "Tipo de Poder": "Ataque"
     },
-    "Golduck": {
-        "Tipo del pokemon": "Golduck",
-        "Poder maximo": 82,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "Vaporeon",
+        "Mayor Puntos": 110,
+        "Tipo de Poder": "Ataque"
     },
-    "Blastoise": {
-        "Tipo del pokemon": "Blastoise",
-        "Poder maximo": 100,
-        "Tipo de poder maximo": "Defensa"
-    },
-    "Lapras": {
-        "Tipo del pokemon": "Lapras",
-        "Poder maximo": 85,
-        "Tipo de poder maximo": "Ataque"
-    },
-    "Poliwrath": {
-        "Tipo del pokemon": "Poliwrath",
-        "Poder maximo": 95,
-        "Tipo de poder maximo": "Defensa"
-    },
-    "Seaking": {
-        "Tipo del pokemon": "Seaking",
-        "Poder maximo": 92,
-        "Tipo de poder maximo": "Ataque"
-    },
-    "Cloyster": {
-        "Tipo del pokemon": "Cloyster",
-        "Poder maximo": 180,
-        "Tipo de poder maximo": "Defensa"
-    },
-    "Krabby": {
-        "Tipo del pokemon": "Krabby",
-        "Poder maximo": 105,
-        "Tipo de poder maximo": "Ataque"
-    },
-    "Vaporeon": {
-        "Tipo del pokemon": "Vaporeon",
-        "Poder maximo": 110,
-        "Tipo de poder maximo": "Ataque"
-    },
-    "Kabutops": {
-        "Tipo del pokemon": "Kabutops",
-        "Poder maximo": 115,
-        "Tipo de poder maximo": "Ataque"
-    },
-    "Gyarados": {
-        "Tipo del pokemon": "Gyarados",
-        "Poder maximo": 125,
-        "Tipo de poder maximo": "Ataque"
-    },
-    "Kingler": {
-        "Tipo del pokemon": "Kingler",
-        "Poder maximo": 130,
-        "Tipo de poder maximo": "Ataque"
+    {
+        "Nombre": "Kingler",
+        "Mayor Puntos": 130,
+        "Tipo de Poder": "Ataque"
     }
-}
+]

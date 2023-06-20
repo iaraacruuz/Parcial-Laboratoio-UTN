@@ -66,21 +66,21 @@ def cantidad_por_tipo(lista_pokemones: list) -> dict:
     for pokemon in lista_pokemones:
         tipos = pokemon['Tipo'].split('/')
         for tipo in tipos:
-            tipo_lower = tipo.lower()
-            if tipo_lower in cantidad_por_tipo:
-                cantidad_por_tipo[tipo_lower] += 1
+            tipo_minuscula = tipo.lower()
+            if tipo_minuscula in cantidad_por_tipo:
+                cantidad_por_tipo[tipo_minuscula] += 1
             else:
-                cantidad_por_tipo[tipo_lower] = 1
+                cantidad_por_tipo[tipo_minuscula] = 1
 
-    cantidad_por_tipo_combined = {}
+    cantidad_por_tipo_combinado = {}
     for tipo, cantidad in cantidad_por_tipo.items():
-        tipo_combined = next((t for t in cantidad_por_tipo_combined.keys() if t.lower() == tipo.lower()), tipo)
-        if tipo_combined in cantidad_por_tipo_combined:
-            cantidad_por_tipo_combined[tipo_combined] += cantidad
+        tipo_combined = next((t for t in cantidad_por_tipo_combinado.keys() if t.lower() == tipo.lower()), tipo)
+        if tipo_combined in cantidad_por_tipo_combinado:
+            cantidad_por_tipo_combinado[tipo_combined] += cantidad
         else:
-            cantidad_por_tipo_combined[tipo_combined] = cantidad
+            cantidad_por_tipo_combinado[tipo_combined] = cantidad
 
-    return cantidad_por_tipo_combined
+    return cantidad_por_tipo_combinado
 
 # #3. Listar pokemones por tipo: mostrará cada tipo indicando el nombre y poder
 # # de ataque de cada pokemon que corresponde a ese tipo.
@@ -231,7 +231,7 @@ def agregar_pokemon(lista_pokemones):
         Retorno: Retorna la lista de pokemones actualizada con el nuevo pokémon agregado, o None si el pokemon ya esta
         en la lista o si se produce un error al ingresar los datos.
     '''
-    numero = input("Ingrese el número de Pokédex, si tiene ceros delante respételos: ")
+    numero = input("Ingrese el número de Pokédex: ")
     
     for pokemon in lista_pokemones:
         if pokemon["N° Pokedex"] == numero.zfill(3):
@@ -360,9 +360,9 @@ def opciones():
 
                             if lista_pokemones_aprobada:
                                     tipo = input("Ingrese el tipo de archivo JSON que desea leer: ")
-                                    ruta_archivo_json = guardar_json(tipo, lista_pokemones)  # Obtén la ruta del archivo JSON guardado
-                                    lista_pokemones_json = leer_json(ruta_archivo_json)  # Lee el archivo JSON
-                                    # Luego puedes imprimir la lista de pokemones JSON
+                                    ruta_archivo_json = guardar_json(tipo, lista_pokemones) 
+                                    lista_pokemones_json = leer_json(ruta_archivo_json)  
+                                    
                                     print(json.dumps(lista_pokemones_json, indent=4, ensure_ascii = False))
                             else:
                                 print("No se cargó la lista de pokemones")
